@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\Myapp.csproj": {}
+    "C:\\Users\\sulagna.mondal\\OneDrive - Acuvate Software Private Limited\\Desktop\\Forkk-17-11\\Basic-Api\\Myapp\\Myapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\Myapp.csproj": {
+    "C:\\Users\\sulagna.mondal\\OneDrive - Acuvate Software Private Limited\\Desktop\\Forkk-17-11\\Basic-Api\\Myapp\\Myapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\Myapp.csproj",
+        "projectUniqueName": "C:\\Users\\sulagna.mondal\\OneDrive - Acuvate Software Private Limited\\Desktop\\Forkk-17-11\\Basic-Api\\Myapp\\Myapp.csproj",
         "projectName": "Myapp",
-        "projectPath": "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\Myapp.csproj",
-        "packagesPath": "C:\\Users\\tarun.aley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\obj\\",
+        "projectPath": "C:\\Users\\sulagna.mondal\\OneDrive - Acuvate Software Private Limited\\Desktop\\Forkk-17-11\\Basic-Api\\Myapp\\Myapp.csproj",
+        "packagesPath": "C:\\Users\\sulagna.mondal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sulagna.mondal\\OneDrive - Acuvate Software Private Limited\\Desktop\\Forkk-17-11\\Basic-Api\\Myapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tarun.aley\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sulagna.mondal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
