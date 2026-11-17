@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tarun.aley\\.nuget\\packages\\": {}
+    "C:\\Users\\pavan.aruva\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\Myapp.csproj",
+      "projectUniqueName": "C:\\Users\\pavan.aruva\\OneDrive - Acuvate Software Private Limited\\Desktop\\fork-thurun\\Basic-Api\\Myapp\\Myapp.csproj",
       "projectName": "Myapp",
-      "projectPath": "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\Myapp.csproj",
-      "packagesPath": "C:\\Users\\tarun.aley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tarun.aley\\OneDrive - Acuvate Software Private Limited\\Desktop\\dotnet\\web_api\\Myapp\\obj\\",
+      "projectPath": "C:\\Users\\pavan.aruva\\OneDrive - Acuvate Software Private Limited\\Desktop\\fork-thurun\\Basic-Api\\Myapp\\Myapp.csproj",
+      "packagesPath": "C:\\Users\\pavan.aruva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavan.aruva\\OneDrive - Acuvate Software Private Limited\\Desktop\\fork-thurun\\Basic-Api\\Myapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tarun.aley\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pavan.aruva\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
